@@ -2,11 +2,11 @@
 
 <repositories version="1.0">
     <repo priority="50" quality="experimental" status="unofficial">
-        <name>sdemos-overlay</name>
+        <name>jeep-overlay</name>
         <description>jeep's personal gentoo overlay</description>
-        <homepage>https://github.com/sdemos/sdemos-overlay</homepage>
+        <homepage>https://github.com/NightTripperID/jeep-overlay</homepage>
         <owner>
-            <name>Eugene The Jeep</name>
+            <name>jeep</name>
         </owner>
         <source type="git">https://github.com/NightTripperID/jeep-overlay</source>
     </repo>
