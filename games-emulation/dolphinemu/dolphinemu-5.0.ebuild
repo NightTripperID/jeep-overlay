@@ -10,7 +10,7 @@ WX_GTK_VER="3.0"
 inherit cmake-utils eutils l10n pax-utils toolchain-funcs versionator wxwidgets
 
 #SRC_URI="https://github.com/${PN}-emu/${PN}/archive/${PV}.zip -> ${P}.zip"
-SRC_URI="file:///home/jeep/jeep-overlay/distfiles/dolphin-5.0.zip"
+SRC_URI="https://github.com/NightTripperID/jeep-overlay/blob/master/src/dolphinemu-5.0.zip"
 KEYWORDS="amd64"
 
 DESCRIPTION="Gamecube and Wii game emulator"
